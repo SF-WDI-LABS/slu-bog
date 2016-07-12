@@ -86,3 +86,9 @@ We'll be creating a single model app to demonstrate editing resources. Its impor
 For delete and edit we will use the DELETE and PATCH or PUT verbs (see RESTful routes). Rails has a solution called method override to allow us to use these verbs without AJAX. This works by creating a post form and creating hidden form field named "_method" which rails uses to override the method. This can also be done automatically by the form helper.
 
 More details here: [Using method override in rails](http://guides.rubyonrails.org/form_helpers.html#how-do-forms-with-patch-put-or-delete-methods-work-questionmark)
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
